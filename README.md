@@ -1,10 +1,10 @@
 # Luiza Salum
 
-Hey there! 👋 I'm Luiza Salum, a bachelor's student at NOVA IMS.
+Hey there! 👋 I'm Luiza Salum, a master's student at NOVA IMS.
 
 ## My Projects
 
-### Computation III Final Project - Car Racer (Lolly Locket's Dog Chase)
+### 2023 - Computation III Final Project - Car Racer (Lolly Locket's Dog Chase)
 - This project challenged me to leverage OOP principles and enhance user experience through a functional and engaging game.
 - Used Python and Pygame
 - Drew every element of the game using Clip Studio Pro
